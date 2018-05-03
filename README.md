@@ -1,4 +1,4 @@
 # hello-world
-taking the tutorial
+delete a line
 
-adding a bit of text for a commit
+then add a bit of text for a commit
